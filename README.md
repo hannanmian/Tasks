@@ -55,10 +55,3 @@ Each task is implemented as a separate notebook or Python script.
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone <your-repo-link>
-   cd <your-repo-folder>
-# Tasks
