@@ -13,7 +13,6 @@ Each task demonstrates a different concept in data analysis and machine learning
   - Age distribution (histogram)  
   - Feature correlation (heatmap)  
 - **Key Outcome:** Discovered important survival patterns (e.g., women and children had higher survival rates).  
-![alt text](image.png)
 ---
 
 ## 📝 Task 2 – Sentiment Analysis  
