@@ -33,6 +33,7 @@ Each task showcases different concepts in **Data Analysis, Visualization, Machin
 ✔️ Accuracy evaluation & sample predictions  
 
 📸 **Output Screenshot:**  
+
 ![alt text](<visuals/Screenshot 2025-08-31 011954.png>)
 ---
 
@@ -45,6 +46,7 @@ Each task showcases different concepts in **Data Analysis, Visualization, Machin
 ✔️ Fraud prediction on sample transactions  
 
 📸 **Output Screenshot:**  
+
 ![alt text](<visuals/Screenshot 2025-08-31 012054.png>)
 ---
 
@@ -58,6 +60,7 @@ Each task showcases different concepts in **Data Analysis, Visualization, Machin
 
 📸 **Output Screenshot:**  
 
+![alt text](<visuals/Screenshot 2025-08-31 012146.png>)
 ---
 
 
