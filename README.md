@@ -18,7 +18,7 @@ Each task showcases different concepts in **Data Analysis, Visualization, Machin
 ✔️ Correlation heatmap of features  
 
 📸 **Output Screenshot:**  
-
+![alt text](visuals/image.png)
 ---
 
 ## 📝 Task 2 – Sentiment Analysis  
