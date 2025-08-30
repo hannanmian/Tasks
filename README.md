@@ -1,44 +1,63 @@
-# Data Science Internship  
+# 🚀 Data Science Internship Tasks  
 
-This repository contains the solutions for my Data Science Internship tasks.  
-Each task demonstrates a different concept in data analysis and machine learning.  
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)  
+![ML](https://img.shields.io/badge/Machine%20Learning-ScikitLearn-green.svg)  
+
+This repository contains the **completed tasks** assigned during my **Data Science Internship (2025)**.  
+Each task showcases different concepts in **Data Analysis, Visualization, Machine Learning, and Predictive Modeling**.  
 
 ---
 
-## 📊 Task 1 – Titanic EDA and Visualization  
-- Performed Exploratory Data Analysis (EDA) on the Titanic dataset (`train.csv`).  
-- Cleaned missing values, explored survival distribution, and studied age patterns.  
-- Created visualizations such as:  
-  - Survival counts (bar chart)  
-  - Age distribution (histogram)  
-  - Feature correlation (heatmap)  
-- **Key Outcome:** Discovered important survival patterns (e.g., women and children had higher survival rates).  
+## 📊 Task 1 – Titanic EDA & Visualization  
+**Objective:** Explore and visualize survival patterns from the Titanic dataset (`train.csv`).  
+
+✔️ Data cleaning and preprocessing  
+✔️ Survival count analysis (bar chart)  
+✔️ Age distribution analysis (histogram)  
+✔️ Correlation heatmap of features  
+
+📸 **Output Screenshot:**  
+![alt text](image.png)  
+![alt text](image-1.png)
+![alt text](image-2.png)
+
 ---
 
 ## 📝 Task 2 – Sentiment Analysis  
-- Built a sentiment classification model using a custom IMDB-like dataset (`imdb_1000_reviews.csv`).  
-- Steps included:  
-  - Text preprocessing (lowercasing, punctuation/stopword removal).  
-  - Converting text into features using **CountVectorizer**.  
-  - Training a **Logistic Regression** classifier.  
-  - Evaluating model accuracy and testing on new reviews.  
-- **Key Outcome:** Successfully classified reviews as **positive** or **negative**.  
+**Objective:** Build a sentiment classification model using IMDB-like reviews (`imdb_1000_reviews.csv`).  
+
+✔️ Text preprocessing (lowercasing, removing punctuation & stopwords)  
+✔️ Feature extraction with **CountVectorizer**  
+✔️ Model training with **Logistic Regression**  
+✔️ Accuracy evaluation & sample predictions  
+
+
 
 ---
 
 ## 💳 Task 3 – Fraud Detection  
-- Created a fraud detection model on a small transaction dataset (`fraud_dataset.csv`).  
-- Balanced the dataset using **undersampling**.  
-- Trained a **Random Forest** classifier.  
-- Evaluated accuracy and tested predictions on example transactions.  
-- **Key Outcome:** Model can identify fraudulent vs. normal transactions with good accuracy.  
+**Objective:** Detect fraudulent transactions using (`fraud_dataset.csv`).  
+
+✔️ Balanced dataset using undersampling (fraud vs normal)  
+✔️ Model training with **Random Forest Classifier**  
+✔️ Accuracy evaluation  
+✔️ Fraud prediction on sample transactions  
+
+
 
 ---
 
 ## 🏠 Task 4 – House Price Prediction  
-- Used the **Boston Housing dataset** (`housing.csv`) to predict house prices.  
-- Preprocessing included normalization of features.  
-- Trained a **Linear Regression** model.  
-- Evaluated performance with **Root Mean Squared Error (RMSE)**.  
-- **Key Outcome:** Built a regression model that can estimate housing prices from given features.  
+**Objective:** Predict Boston housing prices (`housing.csv`) using regression.  
+
+✔️ Data preprocessing & normalization  
+✔️ Model training with **Linear Regression**  
+✔️ Model evaluation using **RMSE**  
+✔️ Prediction of house price for sample input  
+
+
+
+---
+
 
