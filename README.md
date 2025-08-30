@@ -32,8 +32,8 @@ Each task showcases different concepts in **Data Analysis, Visualization, Machin
 ✔️ Model training with **Logistic Regression**  
 ✔️ Accuracy evaluation & sample predictions  
 
-
-
+📸 **Output Screenshot:**  
+![alt text](<visuals/Screenshot 2025-08-31 011954.png>)
 ---
 
 ## 💳 Task 3 – Fraud Detection  
@@ -44,8 +44,8 @@ Each task showcases different concepts in **Data Analysis, Visualization, Machin
 ✔️ Accuracy evaluation  
 ✔️ Fraud prediction on sample transactions  
 
-
-
+📸 **Output Screenshot:**  
+![alt text](<visuals/Screenshot 2025-08-31 012054.png>)
 ---
 
 ## 🏠 Task 4 – House Price Prediction  
@@ -56,7 +56,7 @@ Each task showcases different concepts in **Data Analysis, Visualization, Machin
 ✔️ Model evaluation using **RMSE**  
 ✔️ Prediction of house price for sample input  
 
-
+📸 **Output Screenshot:**  
 
 ---
 
