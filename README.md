@@ -19,6 +19,9 @@ Each task showcases different concepts in **Data Analysis, Visualization, Machin
 
 📸 **Output Screenshot:**  
 ![alt text](visuals/image.png)
+![alt text](visuals/image-1.png)
+![alt text](visuals/image-2.png)
+
 ---
 
 ## 📝 Task 2 – Sentiment Analysis  
