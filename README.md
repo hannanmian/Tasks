@@ -18,9 +18,9 @@ Each task showcases different concepts in **Data Analysis, Visualization, Machin
 ✔️ Correlation heatmap of features  
 
 📸 **Output Screenshot:**  
-![alt text](image.png)  
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](<visuals/Screenshot 2025-08-31 001530.png>) 
+![alt text](<visuals/Screenshot 2025-08-31 001508.png>) 
+![alt text](<visuals/Screenshot 2025-08-31 001432.png>)
 
 ---
 
